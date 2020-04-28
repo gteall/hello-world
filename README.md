@@ -8,3 +8,5 @@
 4.切换https到ssh,避免每次的帐号密码输入
 
 5.vscode中使用git
+
+6.我安装了插件GitLens
