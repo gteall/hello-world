@@ -1,6 +1,8 @@
 # hello-world
-The first repository for learn github.
+1.The first repository for learn github.
 
-modify readme file for test.
+2.modify readme file for test.
 
-test vim for git.
+3.test vim for git.
+
+4.切换https到ssh,避免每次的帐号密码输入
