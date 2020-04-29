@@ -10,3 +10,5 @@
 5.vscode中使用git
 
 6.我安装了插件GitLens
+
+7.test git on windows
